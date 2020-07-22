@@ -1,2 +1,2 @@
 # Hackerrank-Solutions
-Solutions of all Hackerrank codes
+Solutions of all Hackerrank codes in SQL
